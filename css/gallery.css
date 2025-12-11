@@ -1,0 +1,10 @@
+.gallery {
+	padding-top: 20px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.gallery > * {
+	margin-bottom: 20px;
+}
